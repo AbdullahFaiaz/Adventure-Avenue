@@ -6,7 +6,7 @@ Visit the website: [Adventure Avenue](https://adventureavenue-76979.web.app/)
 
 ### Selected category's name: Southeast Asia
 
-## Features:
+- ## Features:
 - **Banner Slider:** Explore stunning visuals and get inspired by our banner slider on the home page.
 - **Countries Section:** Discover tourist spots from around the world organized by country. Click on a specific country card to explore its hidden gems.
 - **Tourist Spots and Adventure Activities:** Dive into our curated lists of tourist spots and adventure activities, perfect for adrenaline junkies and leisure travelers alike.

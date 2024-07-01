@@ -1,10 +1,9 @@
 # Adventure Avenue
 
-Welcome to Adventure Avenue! 
+- ### Overview:
+A Tourism Management Website
 
 Visit the website: [Adventure Avenue](https://adventureavenue-76979.web.app/)
-
-### Selected category's name: Southeast Asia
 
 - ## Features:
 - **Banner Slider:** Explore stunning visuals and get inspired by our banner slider on the home page.

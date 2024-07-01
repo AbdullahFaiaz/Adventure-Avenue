@@ -18,5 +18,5 @@ enriching the platform’s content.</li>
 - ### Technologies Used:
 **ReactJs, JavaScript, Tailwind CSS, MongoDB, Firebase, ExpressJs**
 
-- clone this project and use *npm init* and *npm run dev* command to locally run this project. 
+- clone this project and use ***npm init*** and ***npm run dev*** command to locally run this project. 
 

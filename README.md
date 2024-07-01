@@ -5,12 +5,14 @@ A Tourism Management Website
 
 Visit the website: [Adventure Avenue](https://adventureavenue-76979.web.app/)
 
-- ## Features:
-- **Banner Slider:** Explore stunning visuals and get inspired by our banner slider on the home page.
-- **Countries Section:** Discover tourist spots from around the world organized by country. Click on a specific country card to explore its hidden gems.
-- **Tourist Spots and Adventure Activities:** Dive into our curated lists of tourist spots and adventure activities, perfect for adrenaline junkies and leisure travelers alike.
-- **About Us:** Learn more about Adventure Avenue and the team behind it.
-- **Tourist Spots Pages:** Browse through our extensive collection of tourist spots, categorized for easy navigation.
-- **Private Routes:** Gain access to exclusive features such as adding tourist spots to our database, managing your own list of favorites, and updating or deleting your contributions. 
+- ### Features:
+- Developed a full-stack web application which empowers users to contribute to a curated collection of tourist spots,
+enriching the platform’s content.
+- Users can sort and explore tourist spots added by other users.
+- Users can update or delete the tourist spots they added
 
-Adventure Avenue is your gateway to unforgettable experiences and thrilling adventures around the globe. Start exploring today!
+- ### Technologies Used:
+**ReactJs, JavaScript, Tailwind CSS, MongoDB, Firebase, ExpressJs**
+
+- clone this project and use *npm init* and *npm run dev* command to locally run this project. 
+
